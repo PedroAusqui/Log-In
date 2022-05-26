@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\bin\Debug\LogIn1.exe.config
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\bin\Debug\LogIn1.exe
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\bin\Debug\LogIn1.pdb
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\obj\Debug\LogIn1.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\obj\Debug\LogIn1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\obj\Debug\LogIn1.Form1.resources
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\obj\Debug\LogIn1.Form2.resources
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\obj\Debug\LogIn1.Form3.resources
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\obj\Debug\LogIn1.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\obj\Debug\LogIn1.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\obj\Debug\LogIn1.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\obj\Debug\LogIn1.exe
+C:\Users\Pedro\Desktop\Curso .NET\Intentos de Log In\LogIn1\LogIn1\obj\Debug\LogIn1.pdb
